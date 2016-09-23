@@ -285,14 +285,14 @@ hr {
 }
 
 ._-src-components-Button-disabled__2pptv {
-  background: #E1E1E0;
-  color: #C7C7C5;
+  background: #FAF9F8;
+  color: #C2C2C2;
   cursor: not-allowed;
 }
 
 ._-src-components-Button-disabled__2pptv:hover {
-  background: #E1E1E0;
-  color: #C7C7C5;
+  background: #FAF9F8;
+  color: #C2C2C2;
 }._-src-components-Card-clearfix__g4SVn:after {
   visibility: hidden;
   display: block;
@@ -587,7 +587,7 @@ hr {
 }
 
 ._-src-components-RadioButton-original__2-rDn:checked ~ ._-src-components-RadioButton-faux__2O1Cx {
-  border-color: #767679;
+  border-color: #C2C2C2;
 }
 
 ._-src-components-RadioButton-original__2-rDn:checked ~ ._-src-components-RadioButton-faux__2O1Cx::before {
