@@ -57587,7 +57587,7 @@
 	              icon: '//spacestation.wework.com/images/sales_sign.svg',
 	              iconStyle: { width: 24, height: 24 },
 	              onClick: function onClick() {
-	                return _reactRouter.browserHistory.push('/plasma/Playground4');
+	                return _reactRouter.browserHistory.push('/plasma/playground4');
 	              }
 	            }),
 	            _react2.default.createElement(_src.SideNavBarItem, {
@@ -57595,7 +57595,7 @@
 	              icon: '//spacestation.wework.com/images/company.svg',
 	              iconStyle: { width: 24, height: 24 },
 	              onClick: function onClick() {
-	                return _reactRouter.browserHistory.push('/plasma/Playground3');
+	                return _reactRouter.browserHistory.push('/plasma/playground3');
 	              }
 	            }),
 	            _react2.default.createElement(_src.SideNavBarItem, {
@@ -59529,7 +59529,7 @@
 	              icon: '//spacestation.wework.com/images/sales_sign.svg',
 	              iconStyle: { width: 24, height: 24 },
 	              onClick: function onClick() {
-	                return _reactRouter.browserHistory.push('/plasma/Playground4');
+	                return _reactRouter.browserHistory.push('/plasma/playground4');
 	              }
 	            }),
 	            _react2.default.createElement(_src.SideNavBarItem, {
@@ -59537,7 +59537,7 @@
 	              icon: '//spacestation.wework.com/images/company.svg',
 	              iconStyle: { width: 24, height: 24 },
 	              onClick: function onClick() {
-	                return _reactRouter.browserHistory.push('/plasma/Playground3');
+	                return _reactRouter.browserHistory.push('/plasma/playground3');
 	              }
 	            }),
 	            _react2.default.createElement(_src.SideNavBarItem, {
